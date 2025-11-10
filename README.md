@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;en+Concepci%C3%B3n,+Chile+%F0%9F%87%A8%F0%9F%87%B1;En+constante+aprendizaje;Siempre+creando+cosas+nuevas"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;en+Concepci%C3%B3n,+Chile+%F0%9F%87%A8%F0%9F%87%B1"/>
 </h3>
 
 [![-----------------------------------------------------](
