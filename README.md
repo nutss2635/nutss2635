@@ -13,7 +13,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img align="right" width="200px" alt="snoopy" src="https://media1.tenor.com/m/MaIKnvKAQv8AAAAC/snoopy-typing.gif"/>
 
 * 🌱 Actualmente aprendiendo de **Machine Learning** y profundizando en **Bases de Datos**.
-* 🚀 Desarrollando un proyecto universitario en equipo con el **Stack PERN** (PostgreSQL, Express, React, Node.js).
+* 🚀 Desarrollando un trabajo de la universidad en equipo con el **Stack PERN** (PostgreSQL, Express, React, Node.js).
 * 💡 Me encanta construir "mini-proyectos" para experimentar (aunque la mayoría son privados por ahora).
 
 
