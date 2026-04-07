@@ -12,8 +12,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### 💻 Mi Lado Tech
 <img align="right" width="200px" alt="snoopy" src="https://media1.tenor.com/m/MaIKnvKAQv8AAAAC/snoopy-typing.gif"/>
 
-* 🌱 Actualmente aprendiendo de **Machine Learning** y profundizando en **Bases de Datos**.
-* 🚀 Desarrollando un trabajo de la universidad en equipo con el **Stack PERN** (PostgreSQL, Express, React, Node.js).
+* 🌱 Actualmente aprendiendo de **Machine Learning**.
 * 💡 Me encanta construir "mini-proyectos" para experimentar (aunque la mayoría son privados por ahora).
 
 
