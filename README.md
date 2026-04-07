@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### 😎 Fuera del mundo tech
 
 * ☕ Me gusta visitar cafeterías y probar nuevos tipos de cafés.
-* ⛰️ Hago trekking y siempre estoy buscando nuevos spots en la naturaleza.
+* ⛰️ Hago trekking y siempre estoy buscando nuevos spots.
 * 🎨 Reviso Pinterest para sacar ideas de manualidades, aunque por general quedan a medias.
 * 🥕 Hace poco comencé una pequeña huerta.
   
