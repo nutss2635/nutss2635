@@ -9,19 +9,16 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
-### 💻 Mi Lado Tech
-<img align="right" width="200px" alt="snoopy" src="https://media1.tenor.com/m/MaIKnvKAQv8AAAAC/snoopy-typing.gif"/>
+<img align="right" width="200px" alt="snoopy" src="https://github.com/user-attachments/assets/b2482df0-54dc-43c4-bc6b-d197bd10b275"/>
 
-* 🌱 Actualmente aprendiendo de **Machine Learning**.
-* 💡 Me encanta construir "mini-proyectos" para experimentar (aunque la mayoría son privados por ahora).
+### Sobre mí 
 
-
-### 😎 Fuera del mundo tech
-
-* ☕ Me gusta visitar cafeterías y probar nuevos tipos de cafés.
-* ⛰️ Hago trekking y siempre estoy buscando nuevos spots.
-* 🎨 Reviso Pinterest para sacar ideas de manualidades, aunque por general quedan a medias.
-* 🥕 Hace poco comencé una pequeña huerta.
+* 🎓 Licenciada en ciencias de la ingeniería.
+* 🌱 Actualmente estoy desarollando mi proyecto de título sobre modelos de machine y deep learning.
+* 💻 Estoy aprendiendo sobre ciberseguridad.
+* 💡 Me encanta desarrollar proyectos para aprender.
+* ☕ Me gusta visitar cafeterías.
+* 🧶 Estoy comenzando a aprender crochet.
   
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -46,11 +43,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### 🛢️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🛠️ Herramientas y Otros
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
