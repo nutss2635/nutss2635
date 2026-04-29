@@ -2,10 +2,6 @@
  <img src="https://media.tenor.com/GNrBaeV8I-cAAAAi/quby-high-five.gif" width="80px"> Hola, soy <a href="https://github.com/Aryagm" target="_blank">Catalina Muñoz</a>
 </h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=450&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica;en+Concepci%C3%B3n,+Chile+%F0%9F%87%A8%F0%9F%87%B1"/>
-</h3>
-
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
@@ -14,7 +10,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ### Sobre mí 
 
 * 🎓 Licenciada en ciencias de la ingeniería.
-* 🌱 Actualmente estoy desarollando mi proyecto de título sobre modelos de machine y deep learning.
+* 🌱 Actualmente estoy desarollando mi proyecto de título.
 * 💻 Estoy aprendiendo sobre ciberseguridad.
 * 💡 Me encanta desarrollar proyectos para aprender.
 * ☕ Me gusta visitar cafeterías.
@@ -49,8 +45,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 
 
