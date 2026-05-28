@@ -12,7 +12,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 * 🎓 Licenciada en ciencias de la ingeniería.
 * 🌱 Actualmente estoy desarollando mi proyecto de título.
 * 💻 Estoy aprendiendo sobre ciberseguridad.
-* 💡 Me encanta desarrollar proyectos para aprender.
 * ☕ Me gusta visitar cafeterías.
 * 🧶 Estoy comenzando a aprender crochet.
   
