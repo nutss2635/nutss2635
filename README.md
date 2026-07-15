@@ -111,3 +111,8 @@ Entorno de red virtualizado para prácticas de defensa y monitoreo *(sin reposit
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nutss2635&locale=es&ring=00b894&fire=00cec9&currStreakLabel=00b894" width="60%"/>
 </p>
+
+## 📫 Contacto
+
+[![Gmail](https://img.shields.io/badge/Gmail-1a1f24?style=for-the-badge&logo=gmail&logoColor=00cec9)](mailto:catalina.munoz2201@alumnos.ubiobio.cl)
+[![GitHub](https://img.shields.io/badge/S%C3%ADgueme_en_GitHub-1a1f24?style=for-the-badge&logo=github&logoColor=00b894)](https://github.com/nutss2635)
