@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CEC9&center=true&width=600&lines=Ingeniera+Civil+en+Inform%C3%A1tica+en+formaci%C3%B3n;Desarrolladora+Full+Stack;Aprendiendo+Ciberseguridad" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CEC9&center=true&width=600&lines=Ingeniera+Civil+en+Inform%C3%A1tica+en+formaci%C3%B3n;Intento+de+desarrolladora+Full+Stack;Aprendiendo+Ciberseguridad" alt="Typing SVG"/>
 </p>
 
 <img align="right" width="200px" alt="snoopy" src="https://github.com/user-attachments/assets/b2482df0-54dc-43c4-bc6b-d197bd10b275"/>
