@@ -106,12 +106,6 @@ Entorno de red virtualizado para prácticas de defensa y monitoreo *(sin reposit
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-## 📊 Mis Estadísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nutss2635&locale=es&ring=00b894&fire=00cec9&currStreakLabel=00b894" width="60%"/>
-</p>
-
 ## 📫 Contacto
 
 [![Gmail](https://img.shields.io/badge/Gmail-1a1f24?style=for-the-badge&logo=gmail&logoColor=00cec9)](mailto:catalina.munoz2201@alumnos.ubiobio.cl)
